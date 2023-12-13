@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/PROYECTO-DIANA/static/css/main.d8099e0d.css",
+    "main.js": "/PROYECTO-DIANA/static/js/main.fdf01c7f.js",
+    "static/js/787.3c8b64d5.chunk.js": "/PROYECTO-DIANA/static/js/787.3c8b64d5.chunk.js",
+    "static/media/color-sharp.png": "/PROYECTO-DIANA/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/PROYECTO-DIANA/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/project-img1.png": "/PROYECTO-DIANA/static/media/project-img1.09ee3f30988b4f23acf7.png",
+    "static/media/project-img2.png": "/PROYECTO-DIANA/static/media/project-img2.239c71a266ca8ac9cda3.png",
+    "static/media/contact-img.jpeg": "/PROYECTO-DIANA/static/media/contact-img.1f5521e718d578eac749.jpeg",
+    "static/media/project-img3.png": "/PROYECTO-DIANA/static/media/project-img3.0e545c50674fcbba6bb2.png",
+    "static/media/meter1.jpeg": "/PROYECTO-DIANA/static/media/meter1.c9ee762879d93573eb99.jpeg",
+    "static/media/meter3.jpeg": "/PROYECTO-DIANA/static/media/meter3.dbd4d29f97e60d13fdc7.jpeg",
+    "static/media/header-img.jpeg": "/PROYECTO-DIANA/static/media/header-img.fbd1116f1067b3231e7b.jpeg",
+    "static/media/CentraNo2-Bold.ttf": "/PROYECTO-DIANA/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/PROYECTO-DIANA/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/PROYECTO-DIANA/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/footer-bg.png": "/PROYECTO-DIANA/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/meter2.jpeg": "/PROYECTO-DIANA/static/media/meter2.48ba3e6debbc81aef2b7.jpeg",
+    "static/media/logo.svg": "/PROYECTO-DIANA/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/banner-bg.jpg": "/PROYECTO-DIANA/static/media/banner-bg.a51e55fb05d389d49284.jpg",
+    "static/media/revicons.eot": "/PROYECTO-DIANA/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/PROYECTO-DIANA/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/PROYECTO-DIANA/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/nav-icon3.svg": "/PROYECTO-DIANA/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/PROYECTO-DIANA/index.html",
+    "static/media/nav-icon1.svg": "/PROYECTO-DIANA/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/PROYECTO-DIANA/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/PROYECTO-DIANA/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/PROYECTO-DIANA/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.d8099e0d.css.map": "/PROYECTO-DIANA/static/css/main.d8099e0d.css.map",
+    "main.fdf01c7f.js.map": "/PROYECTO-DIANA/static/js/main.fdf01c7f.js.map",
+    "787.3c8b64d5.chunk.js.map": "/PROYECTO-DIANA/static/js/787.3c8b64d5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d8099e0d.css",
+    "static/js/main.fdf01c7f.js"
+  ]
+}
